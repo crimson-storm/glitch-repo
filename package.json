@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-example",
+  "version": "1.0.0",
+  "description": "A working example of Puppeteer on Glitch.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "puppeteer": "^1.14.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "puppeteer"
+  ]
+}
